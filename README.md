@@ -3,6 +3,8 @@
 #Create React App
 <br>
 npx create-react-app app_name
+<br>
+npm i web-vitals --save-dev
 
 #run react app
 <br>
